@@ -1,0 +1,18 @@
+[StartTime]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=
+[SolverState]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=2
+[MainFrame]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=yes
+[SolverType]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=Linear Analysis
+[StudyType]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=-1
+[StudyName]
+[Solver]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=Iterative
+[Dynamic]
+connecting rod.stp-Buckling Of A Connecting Rod.MFC=0
+[StudyName1]
